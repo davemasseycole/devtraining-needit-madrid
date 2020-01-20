@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value=".module-node [data-id=&quot;4fdfc45d0fe83200c">bd758676db5e0010648b61ca0b961954</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Next click on the &#39;Create New&#39; form within the NeedIt application]]></content>
+        <guide display_value="Lodge NeedIt Request">45f34236db5e0010648b61ca0b961971</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"step_view":""}</options>
+        <order>2</order>
+        <placement>top</placement>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-16 06:06:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd7586b6db5e0010648b61ca0b96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_bd7586b6db5e0010648b61ca0b96199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-16 06:06:09</sys_updated_on>
+        <target/>
+        <target_ref display_value=".module-node [data-id=&quot;4fdfc45d0fe83200c">bd758676db5e0010648b61ca0b961954</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>nav_to.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=bd7586b6db5e0010648b61ca0b96199c"/>
+</record_update>

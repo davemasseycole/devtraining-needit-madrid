@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value=".app-node[data-id=&quot;0242fb8d0fa83200cd674">c7550676db5e0010648b61ca0b96191f</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[First click on the &#39;NeedIt&#39; application]]></content>
+        <guide display_value="Lodge NeedIt Request">45f34236db5e0010648b61ca0b961971</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"step_view":""}</options>
+        <order>1</order>
+        <placement>top</placement>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-16 06:05:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>47550676db5e0010648b61ca0b961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_47550676db5e0010648b61ca0b961921</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-16 06:05:41</sys_updated_on>
+        <target/>
+        <target_ref display_value=".app-node[data-id=&quot;0242fb8d0fa83200cd674">c7550676db5e0010648b61ca0b96191f</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>nav_to.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=47550676db5e0010648b61ca0b961921"/>
+</record_update>
